@@ -14,8 +14,8 @@ subtitle:
 
 content:
   # Contact (edit or remove options as required)
-  email: test@example.org
-  appointment_url: 'https://calendly.com'
+  email: nguyencanhtrung@me.com
+  appointment_url: 'https://bobibo.one'
   contact_links:
     - icon: comments
       icon_pack: fas
